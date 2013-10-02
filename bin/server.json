@@ -1,0 +1,12 @@
+{
+    "port":9002,
+    "threads":10,
+    "using_tls":0,
+    "modules_json":"../conf/modules.json",
+    "validate_json":"../conf/validate.json",
+    "tls_cert":"server.pem",
+    "tls_key":"server.key",
+    "module_log":"module.log",
+    "access_log":"access.log",
+    "error_log":"error.log"
+}
