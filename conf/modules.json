@@ -1,0 +1,22 @@
+{
+    "path":"/home/zoozo/tools/src/lib",
+    "modules":
+    [
+    {
+        "name":"chat",
+        "so":"libchat.so"
+    },
+    {
+        "name":"plus",
+        "so":"libplus.so"
+    },
+    {
+        "name":"minus",
+        "so":"libminus.so"
+    },
+    {
+        "name":"file",
+        "so":"libfile.so"
+    }
+    ]
+}
